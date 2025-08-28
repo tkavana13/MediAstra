@@ -322,14 +322,5 @@ The application is designed for easy deployment on:
 - Static hosting services
 - CDN platforms
 
-## 📄 License
 
-This project is part of a demonstration/portfolio implementation.
 
-## 🤝 Contributing
-
-This is a frontend implementation showcase. For production use, additional backend integration and medical compliance would be required.
-
----
-
-**Note**: This is a frontend implementation for demonstration purposes. For production medical applications, proper backend integration, medical professional review, and regulatory compliance would be essential.
