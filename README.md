@@ -1,5 +1,7 @@
 # SymptoScan AI - Frontend Implementation
 
+https://symptoscan-ai-health-t9nm.bolt.host/
+
 A modern, AI-powered medical symptom checker web application built with React and TypeScript. Features a clean medical design with red and white theme, providing intelligent health analysis and medical insights.
 
 ## 🚀 Overview
